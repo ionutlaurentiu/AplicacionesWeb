@@ -1,0 +1,31 @@
+body {color: grey;}
+table {
+  background: white;
+  border-spacing: 20px;
+}
+th {
+  color: white;
+  font-size: 30px;
+  background: #FF4141;
+  font-family: "Arial";
+  padding-top: 35px;
+  padding-bottom: 35px;
+}
+td {
+  background-color: white;
+  line-height: 30px;
+}
+span.uno {
+  font-weight: bold;
+  color: black;
+  font-size: 18px;
+  font-family: Arial;
+}
+button.dos {
+  background-color: #FF4141;
+  border: 0px;
+  color: white;
+  padding: 17px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
