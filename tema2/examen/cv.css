@@ -1,0 +1,50 @@
+body { background: navy; }
+div.imagen {
+  background-image: url("img/nubes.jpg");
+  background-repeat: no-repeat;
+  padding-left:  10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px 60px 60px 250px;
+}
+h1 {
+  font-family: Arial;
+  color: white;
+  font-size: 45px;
+}
+p.uno {
+  color: white;
+  text-align: right;
+  font-size: 10px;
+  padding-right: 200px;
+}
+span.negrita {
+  font-weight: bold;
+}
+hr {
+  align: left;
+  max-width: 350px;
+  margin-left: 0;
+}
+a.blanco {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+}
+img {
+  float: right;
+  width: 200px;
+  height: 200px;
+  border-color: white;
+  border-style: solid;
+  padding: 0px;
+}
+div.imagen2 {
+  background-color: white;
+}
+h2 {
+color: white;
+font size: 30px;
+background-color: navy;
+}
