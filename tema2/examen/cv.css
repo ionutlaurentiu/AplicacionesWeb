@@ -43,8 +43,20 @@ img {
 div.imagen2 {
   background-color: white;
 }
-h2 {
-color: white;
-font size: 30px;
-background-color: navy;
+h2.dos {
+  background-color: navy;
+  color: white;
+}
+p.aaa{
+  margin: 0px 10px 0px 250px;
+  text-align: justify;}
+}
+span.primero {
+  font-family: Arial;
+  color: blue;
+  font-size: 30px;
+}
+span.segundo {
+  font-family: Arial;
+  font-size: 25px;
 }
