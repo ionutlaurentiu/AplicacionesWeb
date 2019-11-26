@@ -1,93 +1,80 @@
 body {
-  margin-left: 25%;
-  margin-right: 25%;
-  background-color: #00245e;
+  margin: 30px;
+  background-color: navy;
 }
-h1 {
+table.Cabecera {
+  background-image: url(Cielo.jpeg);
+  width: 100%;
+  background-size: cover;
+}
+img.logo {
+  height: 50px;
+}
+img.foto {
+  height: 200px;
+  margin-right: 80px;
+  border: 10px solid white;
+}
+p.Link {
+  text-align: right;
   color: white;
 }
-
+td.logos {
+  text-align: center;
+  color: white;
+  width: 50%;
+}
+td.link {
+  width: 50%;
+  padding: 20px;
+}
+p.nombre {
+  font-size: 40px;
+  color: white;
+}
+span.apellidos {
+  font-weight: bold;
+}
+span.letra {
+  color: grey;
+}
 p {
   color: white;
 }
-
-p.links {
-  text-align: right;
+td.link p {
+  text-align: left;
+}
+span.work {
+  border-style: solid;
+  border-color: #000080;
+  background-color: #000080;
   color: white;
-  font-size: 12px;
-  margin: 5px 2px;
+  font-size: 50px;
 }
-
-p.links a {
-  color: white;
+table.datos {
+  background-color: white;
 }
-
-hr {
-  border: 1px solid white;
-  margin-top: 1px;
-  margin-bottom: 1px;
-}
-
-span.letra {
-  color: #2f9bfa;
-  font-weight: bold;
-}
-
-span.unbold {
-  font-weight: normal;
-}
-
-img.logo {
-  width: 40px;
-  height: 40px;
-}
-
-img.perfil {
-  width: 125px;
-  border: 8px solid white;
-}
-
-table.uno {
-  background-image: url(cielo-azul-nubes.jpeg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  padding: 10px 15px;
-  border: 0px solid white;
-}
-
-td {
-  width: 25%;
-}
-
-td.left {
+td.Work {
+  padding: 30px;
   width: 50%;
 }
-
-td.left p {
-  font-size: 12px;
-  font-weight: bold;
-  margin-top: 4px;
-  margin-bottom: 4px;
+p.uno {
+  color: blue;
+  font-size: 25px;
+  margin-bottom: 0px;
 }
-
-td.center {
-  font-size: 12px;
-  text-align: center;
-  font-weight: bold;
+p.dos {
+  color: #000080;
+  font-size: 30px;
+  margin-top: 0px;
 }
-p.texto {
+span.fechas {
+  font-size: 15px;
   color: white;
-  margin: 5px 2px;
-}
-table.dos {
-  background-color: white;
-  background-size: cover;
-  width: 100%;
-  padding: 10px 15px;
-  border: 0px solid white;
-}
-td.tres {
-   background-color: navy;
-   color: white;
+  border-style: solid;
+  border-color: #1E90FF;
+  background-color: #1E90FF;
+  border-radius: 5px;
+  border: 2px solid grey;
+  margin-left: 200px;
 }
