@@ -1,0 +1,35 @@
+body{
+  background-color: teal;
+  margin: 30px;
+}
+table.Cabecera{
+  background-image: url(ropa.jpg);
+  width: 100%;
+  background-size: cover;
+}
+h1.uno{
+  text-align: center;
+  color: white
+}
+p.uno {
+  text-align: center;
+}
+h2.dos{
+  text-align: center;
+  color: White;
+}
+table.dos{
+  width: 100%;
+  background-color: white;
+  padding: 20px;
+
+}
+img.tres{
+  height: 200px;
+  margin-left: 80px;
+}
+p.cuatro{
+  margin-left: 110px;
+  font-weight: bold;
+  color: red;
+}

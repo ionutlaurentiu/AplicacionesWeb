@@ -1,0 +1,27 @@
+body{
+  background-color: teal;
+  margin: 30px;
+}
+table.Cabecera{
+  background-image: url(ropa.jpg);
+  width: 100%;
+  background-size: cover;
+}
+p.uno {
+  text-align: center;
+}
+h1.uno{
+  text-align: center;
+  color: white
+}
+p.dos{
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  color: Green;
+  font-size: 35px;
+}
+img.aa{
+  height: 400px;
+  border: 10px solid white;
+}
