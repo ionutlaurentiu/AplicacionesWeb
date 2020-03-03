@@ -1,0 +1,14 @@
+div.uno {border: solid 1px;
+  padding-left: 10px;
+  margin: 1px;
+  color: White;
+  background-color: gray;
+}
+div.dos {border: solid 1px;
+  padding-left: 10px;
+  margin: 1px;
+}
+div.tres {border: solid 1px;
+  padding: 5px;
+  margin: 12px;
+}
