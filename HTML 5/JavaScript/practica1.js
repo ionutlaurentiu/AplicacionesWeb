@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="es">
 <head><title>Javascript </title></head>
 <body>
-<h1> Hacer una pirámide de 5 pisos en javascript (suma de Strings) </h1>
+<h1> Hacer una pirámide de 5 pisos en javascript </h1>
     <script type="text/javascript">
     var cadena = "* ";
     var piramide="";
