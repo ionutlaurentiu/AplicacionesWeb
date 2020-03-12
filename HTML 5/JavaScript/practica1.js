@@ -1,22 +1,15 @@
 <!DOCTYPE html><html lang="es">
 <head><title>Javascript </title></head>
 <body>
-
-
 <h1> Hacer una pirámide de 5 pisos en javascript (suma de Strings) </h1>
-
     <script type="text/javascript">
     var cadena = "* ";
     var piramide="";
-
     //con for
     for(var i =0; i<5; i++){
         piramide +=cadena;
         document.write(piramide+ "<br>");
-
-
     }
-
     //con while
     var contador=0;
     piramide="";
@@ -24,23 +17,15 @@
         piramide +=cadena;
         document.write(piramide+ "<br>");
         contador++;
-
     }
-
     //con do while
     contador=0;
     piramide="";
-
     do{
      piramide+=cadena;
      document.write(piramide + "<br>");
      contador++;
-
     }while(contador<5)
-
-
     </script>
-
-
 </body>
 </html>
